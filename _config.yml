@@ -1,18 +1,16 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "성장중독 마케터K의 기록"
+tagline:            "배워서 남주자"
+email:              "hji2d777@gmail.com"
+description:        "마케팅부터 데이터분석, 영어 등 성장에 도움될 모든 분야를 기록해나갈 성장 중독 마케터K 입니다."
+author:             "김현진"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://growth-mkt-k.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/blog_thumbnail-img.jpg"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+instagram_username: katiekim
+
 
 # Build settings
 markdown:           kramdown
