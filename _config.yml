@@ -2,7 +2,7 @@ title:              "성장중독 마케터K의 기록"
 tagline:            "배워서 남주자"
 email:              "hji2d777@gmail.com"
 description:        "마케팅부터 데이터분석, 영어 등 성장에 도움될 모든 분야를 기록해나갈 성장 중독 마케터K 입니다."
-author:             "김현진"
+author:             "성장중독 마케터K"
 baseurl:            "/"
 url:                "https://growth-mkt-k.kr"
 locale:             "ko_KR"
@@ -19,3 +19,7 @@ paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-paginate
+
+# 블로그 disqus shortname
+disqus:
+  shortname: growth-mkt-k
