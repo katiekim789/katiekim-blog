@@ -10,7 +10,7 @@ categories:
   - marketing
 tags:
   - My-introduction
-  - marketing
+  - Marketing
   - 마케팅
   - 소개
 description: '제 마케팅 커리어의 첫 계기와 과정을 소개합니다'
