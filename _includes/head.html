@@ -75,6 +75,42 @@
   {% endif %}
   <!-- End SEO Tag -->
 
+  <!-- 네이버 연관 채널 -->
+  <script type="application/ld+json">
+  {
+   "@context": "http://schema.org",
+   "@type": "Person",
+   "name": "{{ site.title }}",
+   "url": "{{ site.url }}",
+   "sameAs": [
+     "https://www.facebook.com/myfacebook",
+     // "http://blog.naver.com/myblog",
+     // "http://storefarm.naver.com/mystore"
+   ]
+  }
+  </script>
+  <!-- End 네이버 연관 채널 -->
+
+  <!-- 아티클 구조화된 데이터 -->
+  {% if page.feature %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "{{ page.title }}",
+        "image": [
+          "{{ site.github.url }}{{ page.feature }}",
+          // "https://ogaeng.com/images/post/17/03-dashboard.png",
+         ],
+        "datePublished": "{{ page.date }}",
+      }
+    </script>
+  {% endif %}
+  <!-- End 아티클 구조화된 데이터 -->
+
+  <meta name="naver-site-verification" content="fc841d8b57fc979da82039e5b6fc0a29207be78a" />
+
+
   <!-- Favicon Tag -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.github.url }}/img/icon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.github.url }}/img/icon/apple-icon-60x60.png">
