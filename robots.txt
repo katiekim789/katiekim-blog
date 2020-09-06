@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://growth-mkt-k.kr//sitemap.xml
+
+DaumWebMasterTool:4e507ea5c879716269411436be862b97a356c1eb11f8e93daed82d52201aad65:8+R9pCGyucsS10vXk/Zuog==
