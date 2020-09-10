@@ -82,11 +82,6 @@
    "@type": "Person",
    "name": "{{ site.title }}",
    "url": "{{ site.url }}",
-   "sameAs": [
-     "https://www.facebook.com/myfacebook",
-     // "http://blog.naver.com/myblog",
-     // "http://storefarm.naver.com/mystore"
-   ]
   }
   </script>
   <!-- End 네이버 연관 채널 -->
@@ -99,8 +94,7 @@
         "@type": "NewsArticle",
         "headline": "{{ page.title }}",
         "image": [
-          "{{ site.github.url }}{{ page.feature }}",
-          // "https://ogaeng.com/images/post/17/03-dashboard.png",
+          "{{ site.github.url }}{{ page.feature }}"
          ],
         "datePublished": "{{ page.date }}",
       }
