@@ -2,7 +2,7 @@
 layout: post
 permalink: /my-introduction/
 title: '절대로 안하려 한 마케팅, 결국 마케터가 되다'
-date: 2019-08-23 11:30:00 +09:00
+date: 2020-08-23 11:30:00 +09:00
 feature: '/img/posts/01/posting_01_thumbnail.jpg'
 background: '/img/posts/01/posting_01_background.jpg'
 categories:

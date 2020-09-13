@@ -2,7 +2,7 @@
 layout: post
 permalink: /contents-process/
 title: '마케팅 초보도 ROAS 700% 콘텐츠 만드는 꿀팁'
-date: 2019-08-30 11:30:00 +09:00
+date: 2020-08-30 11:30:00 +09:00
 feature: '/img/posts/02/02_posting_thumbnail.jpg'
 background: '/img/posts/02/02_posting_background.jpg'
 categories:
@@ -84,10 +84,10 @@ _긴 시간 오랫동안 구두를 신고 있으려니 발도 아프고 다리�
 그렇게 정해진 매체가 페이스북과 인스타그램이면 소재를 동영상으로 전달할 것인지, 이미지로 전달할 것인지 정합니다. 그리고나서 이 매체에 적합한 광고 가이드를 확인하셔야합니다.  왜냐면 매체마다 광고 소재 형식의 파일 형식이나 이미지 비율, 텍스트 오버레이가 다르기 때문입니다. 만약 이를 확인하지 않고 해당 매체에서 지원하지 않는 이미지 형식으로 만들게 된다면, 수정하는데 추가적인 시간이 소요되니 주의해야겠죠?
 
 
--페이스북 광고 가이드 : [페이스북](https://www.facebook.com/business/ads-guide/image)
--카카오 비즈보드 제작가이드 : [카카오비즈](https://ad.kakao.com/guide/talkboard/specs)
--카카오 디스플레이 제작가이드 : [카카오DA](https://ad.kakao.com/guide/display/specs)
--구글 디스플레이 광고 가이드 : [구글DA](https://support.google.com/google-ads/answer/9823397?hl=ko&ref_topic=3121943)
+* 페이스북 광고 가이드 : [https://www.facebook.com/business/ads-guide/image](https://www.facebook.com/business/ads-guide/image)
+* 카카오 비즈보드 제작가이드 : [https://ad.kakao.com/guide/talkboard/specs](https://ad.kakao.com/guide/talkboard/specs)
+* 카카오 디스플레이 제작가이드 : [https://ad.kakao.com/guide/display/specs](https://ad.kakao.com/guide/display/specs)
+* 구글 디스플레이 광고 가이드 : [https://support.google.com/google-ads/answer/9823397?hl=ko&ref_topic=3121943](https://support.google.com/google-ads/answer/9823397?hl=ko&ref_topic=3121943)
 
 
 
@@ -95,13 +95,13 @@ _긴 시간 오랫동안 구두를 신고 있으려니 발도 아프고 다리�
 
 마지막으로 고객의 소구점을 어떤 방식으로 표현할 것인가인데요. 이때 우리 비즈니스에 맞는 콘텐츠 유형을 정의해두고 테스트해보는 것이 중요합니다. 예를 들어 이커머스라고 하면 아래와 같이 콘텐츠 유형을 정의해볼 수 있습니다.
 
-1) 기능 강조형 (USP)
-2) 감성문구형
-3) 신뢰&대세감형
-4) 공감형
-5) 위협소구형
-6) 리뷰형
-7) 혜택성
+* 기능 강조형 (USP)
+* 감성문구형
+* 신뢰&대세감형
+* 공감형
+* 위협소구형
+* 리뷰형
+* 혜택성
 
 
 위에 정의한 콘텐츠 유형들의 자세한 레퍼런스들은 다음 콘텐츠에서 보여드리도록 하겠습니다. (다음주에도 또 방문해주셔야겠죠?ㅎㅎ)  
