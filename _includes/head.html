@@ -3,6 +3,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178018719-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-178018719-1');
+  </script>
+
+
   <title>
 		{%if page.title %}
 			{{ page.title }} - {{ site.title }}
@@ -10,6 +21,7 @@
 			{{ site.title }} - {{ site.tagline }}
 		{% endif %}
 	</title>
+
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
@@ -74,6 +86,8 @@
     {% endfor %}
   {% endif %}
   <!-- End SEO Tag -->
+
+
 
   <!-- 네이버 연관 채널 -->
   <script type="application/ld+json">
