@@ -45,24 +45,10 @@ form: true
 
 
 
-<script>
- var t = document.querySelector("#contactForm");
- t.addEventListener('submit', function(event){
-    if(document.getElementById('name').value.length === 0){
-        alert('Name 필드의 값이 누락 되었습니다');
-        event.preventDefault();
+  <script>
+  var submitbtn = document.querySelector("#contactForm");
+  var clickBtn = function() {gtag('event', '제출완료' {'event_category' : '문의하기'});
+}
 
-    if(document.getElementById('email').value.length === 0){
-            alert('Email 필드의 값이 누락 되었습니다');
-            event.preventDefault();
-
-    if(document.getElementById('phone').value.length === 0){
-            alert('Telephone 필드의 값이 누락 되었습니다');
-            event.preventDefault();
-
-    if(document.getElementById('message').value.length === 0){
-            alert('Message 필드의 값이 누락 되었습니다');
-            event.preventDefault();
-    }
- });
+  submitbtn.addEventListener("submit",clickBtn);
 </script>
