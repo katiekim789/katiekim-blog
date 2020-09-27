@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /contents-category1/
+permalink: /contents-category-01/
 title: '콘텐츠 크리에이티브, 유형을 나누면 답이 보인다 (1부)'
 date: 2020-09-13 11:30:00 +09:00
 feature: '/img/posts/03/posting_thumbnail.jpg'

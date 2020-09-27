@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /contents-process/
-title: '마케팅 초보도 ROAS 700% 콘텐츠 만드는 꿀팁'
+title: '구매전환을 이끌어내는 SNS 콘텐츠 만드는 꿀팁'
 date: 2020-08-30 11:30:00 +09:00
 feature: '/img/posts/02/02_posting_thumbnail.jpg'
 background: '/img/posts/02/02_posting_background.jpg'
@@ -13,7 +13,7 @@ tags:
   - Contents
   - 마케팅
   - 콘텐츠
-description: '쪼랩 마케터도 대박 콘텐츠 만들수 있는 프로세스 대방출'
+description: '신입 마케터도 대박 낼 수 있는 크리에이티브 프로세스'
 ---
 
 안녕하세요 성장중독 마케터K입니다.
