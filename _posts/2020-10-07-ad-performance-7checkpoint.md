@@ -3,8 +3,8 @@ layout: post
 permalink: /ad-performance-7checkpoint/
 title: '광고 효율이 떨어졌다! 무엇을 체크해야할까?'
 date: 2020-10-07 11:30:00 +09:00
-feature: '/img/posts/04/posting_thumbnail.jpg'
-background: '/img/posts/04/posting_background.jpg'
+feature: '/img/posts/05/posting_thumbnail.jpg'
+background: '/img/posts/05/posting_background.jpg'
 categories:
   - marketing
   - contents
