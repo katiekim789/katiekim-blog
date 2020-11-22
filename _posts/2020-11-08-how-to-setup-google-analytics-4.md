@@ -1,13 +1,13 @@
 ---
 layout: post
 permalink: /how-to-setup-google-analytics-4/
-title: 'Google Analytics 4(GA4) 세팅하는 방법'
+title: '[GA4] Google Analytics 4 세팅하는 방법'
 date: 2020-11-08 11:30:00 +09:00
 feature: '/img/posts/07/posting_thumbnail.png'
 background: '/img/posts/07/posting_background.png'
 categories:
+  - analytics
   - marketing
-  - contents
 tags:
   - Marketing
   - Data Analytics

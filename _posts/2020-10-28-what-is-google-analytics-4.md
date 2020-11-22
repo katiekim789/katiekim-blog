@@ -1,13 +1,13 @@
 ---
 layout: post
 permalink: /what-is-google-analytics-4/
-title: 'Google Analytics 4(GA4)는 도대체 무엇인가?'
+title: '[GA4] Google Analytics 4(GA4)는 도대체 무엇인가?'
 date: 2020-10-28 11:30:00 +09:00
 feature: '/img/posts/06/posting_thumbnail.jpg'
 background: '/img/posts/06/posting_background.jpg'
 categories:
+  - analytics
   - marketing
-  - contents
 tags:
   - Marketing
   - Data Analytics
