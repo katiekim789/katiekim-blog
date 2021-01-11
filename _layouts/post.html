@@ -54,6 +54,9 @@ layout: default
 
 
 <script>
-  var title = "{{ page.title }}";
-  gtag('event', title, {'event_category': '글 보기'});
-</script>
+  var postView = function () {
+    dataLayer.push({
+      'event': 'postView',
+      'name' : "{{page.title}}"
+    });
+</script> 
