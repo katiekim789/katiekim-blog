@@ -54,9 +54,8 @@ layout: default
 
 
 <script>
-  var postView = function () {
-    dataLayer.push({
+  dataLayer.push({
       'event': 'postView',
-      'name' : '{{page.title}}'
+      'postTitle' : '{{page.title}}'
     });
 </script>
